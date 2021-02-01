@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/kenodressel/release-test/compare/v1.0.0...v1.1.0) (2021-02-01)
+
+
+### Features
+
+* new updates ([68e730a](https://www.github.com/kenodressel/release-test/commit/68e730a9e91885eff907bd8fdefd479e3ad55f2e))
+
+
+### Bug Fixes
+
+* removes package name ([b9bd9e1](https://www.github.com/kenodressel/release-test/commit/b9bd9e1deab7f8a6a33e03d9a242fe4de1dd01f6))
+* updates package name ([f9d258e](https://www.github.com/kenodressel/release-test/commit/f9d258ebcc15c89549ab9208c173868c5b46517a))
+
 ## 1.0.0 (2021-02-01)
 
 
